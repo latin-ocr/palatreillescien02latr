@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./palatreillescien02latr_0296.png"; bbox 0 0 1864 3201; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 106 14 1681 284">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 41 4 1681 284">
+     <span class='ocr_line' id='line_1_1' title="bbox 106 14 1681 284; baseline 0.062 -150.997"><span class='ocrx_word' id='word_1_1' title='bbox 106 14 108 18; x_wconf 41' lang='lat'>¹</span> <span class='ocrx_word' id='word_1_2' title='bbox 132 29 133 32; x_wconf 8' lang='grc' dir='ltr'><em>Ν</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 270 26 271 29; x_wconf 9' lang='grc' dir='ltr'><em>Ὗ</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 287 53 288 56; x_wconf 8' lang='grc' dir='ltr'><em>Ν</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 458 32 460 35; x_wconf 72' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1000 56 1681 284; x_wconf 45' lang='lat' dir='ltr'>1mm111111}ffnffljcigt&#39;mjtifflfflfflufflflssfflffluuunu</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 862 3201">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 862 3201">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 862 3201; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 862 3201; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
